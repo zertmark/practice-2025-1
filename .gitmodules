@@ -1,3 +1,5 @@
+
 [submodule "site"]
 	path = site
-	url = https://github.com/zertmark/site_for_practice.git
+	url = https://github.com/zertmark/site_for_practice
+	branch = master
