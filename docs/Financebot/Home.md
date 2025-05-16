@@ -1,12 +1,12 @@
 # Добро пожаловать на нашу WIKI !
 
 ## Таблица содержимого
-1. [**Добро пожаловать**](https://github.com/zertmark/bot_for_practice/wiki/Home#добро-пожаловать-на-нашу-wiki-!)
-1. [**Руководство**](https://github.com/zertmark/bot_for_practice/wiki/руководство#техническое-руководство )
-1. [**Описание работы**](https://github.com/zertmark/bot_for_practice/wiki/описание_работы#Описание-работы)
-1. [**Структура приложения**](https://github.com/zertmark/bot_for_practice/wiki/структура#структура-проекта)
-1. [**Классы**](https://github.com/zertmark/bot_for_practice/wiki/классы#структура-классов)
-1. [**Команды**](https://github.com/zertmark/bot_for_practice/wiki/команды#cписок-команд )
+1. [**Добро пожаловать**](https://github.com/zertmark/practice-2025-1/blob/master/docs/Financebot/Home.md#добро-пожаловать-на-нашу-wiki-!)
+1. [**Руководство**](https://github.com/zertmark/practice-2025-1/blob/master/docs/Financebot/Руководство.md#техническое-руководство )
+1. [**Описание работы**](https://github.com/zertmark/practice-2025-1/blob/master/docs/Financebot/Описание_работы.md#Описание-работы)
+1. [**Структура приложения**](https://github.com/zertmark/practice-2025-1/blob/master/docs/Financebot/Структура#структура-проекта)
+1. [**Классы**](https://github.com/zertmark/practice-2025-1/blob/master/docs/Financebot/Классы.md#структура-классов)
+1. [**Команды**](https://github.com/zertmark/practice-2025-1/blob/master/docs/Financebot/Классы/Команды.md#cписок-команд )
 
 ## О проекте
 **Finance Bot** — это многофункциональный инструмент для автоматизации бизнес-процессов, разработанный для малого и среднего бизнеса. Бот позволяет:
