@@ -1,5 +1,6 @@
 # Отчёты в бинарных форматах
 
-- В этот файл добавьте ссылки на файлы отчётов и краткое описание к ним.
-- Файлы могут быть в форматах DOCX, PDF и др.
-- Структура отчёта по проектной практике приведена в файле [practice_report_template.docx](practice_report_template.docx).
+## **Видеопрезентация:**  
+[![Video](./presentation.gif)](https://github.com/zertmark/practice-2025-1/raw/refs/heads/master/reports/presentation.mp4)
+
+
