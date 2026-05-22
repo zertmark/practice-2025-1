@@ -16,7 +16,7 @@
 Я выбрал технологию (тематику) из списка, представленного в репозитории [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x).  
 Этой технологией стал [Telegram Bot на Python](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
 
-[![Static Badge](https://img.shields.io/badge/FinanceBot-_-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/zertmark/bot_for_practice) [![Static Badge](https://img.shields.io/badge/Zertmark-_-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/zertmark/) [![Static Badge](https://img.shields.io/badge/Skeatlox-_-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/skeatlox/)
+[![Static Badge](https://img.shields.io/badge/FinanceBot-_-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/zertmark/bot_for_practice) [![Static Badge](https://img.shields.io/badge/Zertmark-_-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/zertmark/)
 ## Ответственный по проектной (учебной) практике
 
 Привалов Вячеслав Анатольевич
