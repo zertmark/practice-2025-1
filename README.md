@@ -4,8 +4,7 @@
 
 | ФИО | Учебная группа | Код направления подготовки | Профиль образовательной программы |
 |-|-|-|-|
-| Пашковский Марк Анатольевич |241-329|09.03.01|Программирование электронных устройств и систем|
-| Журавлев Эльдар Владимирович|241-329|09.03.01|Программирование электронных устройств и систем|
+| Пашковский Марк Анатольевич |251-951|09.03.01|Системная и программная инженерия (СИПИ)|
 
 ## Задание
 
@@ -14,7 +13,7 @@
 ## Вариативная часть задания
 
 ### Тема: Практическая реализация технологии  
-Мы выбрали технологию (тематику) из списка, представленного в репозитории [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x).  
+Я выбрал технологию (тематику) из списка, представленного в репозитории [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x).  
 Этой технологией стал [Telegram Bot на Python](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
 
 [![Static Badge](https://img.shields.io/badge/FinanceBot-_-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/zertmark/bot_for_practice) [![Static Badge](https://img.shields.io/badge/Zertmark-_-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/zertmark/) [![Static Badge](https://img.shields.io/badge/Skeatlox-_-black?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/skeatlox/)
@@ -30,4 +29,4 @@
 
 ## Период проведения
 
-С 03 февраля 2025 г. по 24 мая 2025 г.
+С 03 февраля 2026 г. по 24 мая 2026 г.
